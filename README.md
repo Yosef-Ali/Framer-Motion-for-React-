@@ -72,5 +72,5 @@ ______________________
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i
 
-See the from GitHub link  [GitHub](https://github.com/iamshaunjp/framer-motion) for more information.
+See from GitHub link  [GitHub](https://github.com/iamshaunjp/framer-motion) for more information.
 
